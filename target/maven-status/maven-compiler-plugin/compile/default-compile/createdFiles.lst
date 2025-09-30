@@ -1,0 +1,3 @@
+com\example\studentapp\model\StudentService.class
+com\example\studentapp\controller\StudentServlet.class
+com\example\studentapp\model\Student.class
